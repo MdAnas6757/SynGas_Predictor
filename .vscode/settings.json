@@ -1,0 +1,7 @@
+{
+    "debug.javascript.defaultRuntimeExecutable": {
+        
+        "pwa-node": "node",
+        "css.validate": false
+    }
+}
